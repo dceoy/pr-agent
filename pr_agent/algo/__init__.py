@@ -37,4 +37,11 @@ MAX_TOKENS = {
     'groq/llama3-8b-8192': 8192,
     'groq/llama3-70b-8192': 8192,
     'ollama/llama3': 4096,
+    'llama-3-sonar-small-32k-chat': 32768,
+    'llama-3-sonar-small-32k-online': 28000,
+    'llama-3-sonar-large-32k-chat': 32768,
+    'llama-3-sonar-large-32k-online': 28000,
+    'llama-3-8b-instruct': 8192,
+    'llama-3-70b-instruct': 8192,
+    'mixtral-8x7b-instruct': 16384,
 }
